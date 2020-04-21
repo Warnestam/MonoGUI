@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>61799d34-19df-41f2-a7fb-6ebc278c9436</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>MonoGUI</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\Containers\GuiCanvasPanel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\Containers\GuiTabControl.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\ContentControls\GuiBorder.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\ContentControls\GuiPanel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\Containers\GuiDockPanel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\Containers\GuiStackPanel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\ContentControls\GuiExpandablePanel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\GuiContainerControl.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\GuiContentControl.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\GuiElement.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\SimpleControls\GuiBox.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Engine\IGuiSizeable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Engine\IGuiDraggable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Engine\GuiRect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Engine\GuiPoint.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Engine\GuiThickness.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Engine\GuiSize.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Engine\GuiMinMax.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Engine\GuiEnums.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Engine\GuiEngine.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Engine\GuiEngineOptions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\SimpleControls\GuiLabel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Controls\ContentControls\GuiWindow.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameComponents\FpsEngine.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameComponents\SimpleCamera.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameComponents\SimpleCameraController.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Primitives\Billboard.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Primitives\DynamicBillboard.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Primitives\DynamicPrimitiveTriangles.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Primitives\PrimitivePlaneGeneric.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Primitives\PrimtiveTriangles.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Primitives\PrimtivePlane.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Primitives\PrimitiveLine.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Primitives\DynamicPrimitiveLine.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\GuiPainter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameComponents\InputManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Primitives\SimpleCamera.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Primitives\SkyBox.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Primitives\TextBox.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Structures\IPlaneVertex.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Structures\PlanelMultiTexture.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Structures\PlanelTexture.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Structures\VertexBillboardParticle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Structures\VertexPointSprite.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Structures\VertexPositionNormalColor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Graphics\Structures\VertexPositionNormalColorTexture.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TexturePackerLoader\SpriteFrame.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TexturePackerLoader\SpriteRender.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TexturePackerLoader\SpriteSheet.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TexturePackerLoader\SpriteSheetLoader.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="$(MSBuildThisFileDirectory)Content\GuiContent.mgcb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Content\Effects\SimpleAlpha.fx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Content\GuiContent.mgcb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)Content\Fonts\LabelFont.spritefont" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{41B55CB5-E575-4961-B0EC-CD2EC5B4450D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MonoExperience</RootNamespace>
+    <AssemblyName>MonoExperience</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>Windows</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Game1.cs" />
+    <Compile Include="MyCode\Engines\BasicLines1bEngine.cs" />
+    <Compile Include="MyCode\Engines\BasicLines1bEngineControlWindow.cs" />
+    <Compile Include="MyCode\EngineContainer.cs" />
+    <Compile Include="MyCode\BaseEngine.cs" />
+    <Compile Include="MyCode\Engines\BasicLines1Engine.cs" />
+    <Compile Include="MyCode\Engines\BasicLines1EngineControlWindow.cs" />
+    <Compile Include="MyCode\Engines\BasicLines2Engine.cs" />
+    <Compile Include="MyCode\Engines\BasicPlaneEngine.cs" />
+    <Compile Include="MyCode\Engines\SpaceShipEngine2.cs" />
+    <Compile Include="MyCode\Engines\SpaceShipEngine1.cs" />
+    <Compile Include="MyCode\Engines\PolygonEngine.cs" />
+    <Compile Include="MyCode\Engines\CountEngine\flowers.cs" />
+    <Compile Include="MyCode\Engines\CountEngine\Framework\Line.cs" />
+    <Compile Include="MyCode\Engines\CountEngine\Framework\LineConnector.cs" />
+    <Compile Include="MyCode\Engines\CountEngine\Framework\MyParticle.cs" />
+    <Compile Include="MyCode\Engines\CountEngine\Framework\MyParticles.cs" />
+    <Compile Include="MyCode\Engines\CountEngine\ParticleEffects\DigitEffect.cs" />
+    <Compile Include="MyCode\Engines\CountEngine\ParticleEffects\DownCounterEffect.cs" />
+    <Compile Include="MyCode\Engines\CountEngine\ParticleEffects\EvaEffect.cs.cs" />
+    <Compile Include="MyCode\Engines\CountEngine\ParticleEffects\SecondEffect.cs" />
+    <Compile Include="MyCode\Engines\CountEngine\ParticleEffects\SideEffect.cs" />
+    <Compile Include="MyCode\Engines\DustEngine.cs" />
+    <Compile Include="MyCode\EngineFactory.cs" />
+    <Compile Include="MyCode\Engines\FamilyEngine.cs" />
+    <Compile Include="MyCode\Engines\FireworkEngine.cs" />
+    <Compile Include="MyCode\Engines\FractalPlaneEngine.cs" />
+    <Compile Include="MyCode\Engines\FractalPlaneEngine2.cs" />
+    <Compile Include="MyCode\Engines\GameEngine.cs" />
+    <Compile Include="MyCode\Engines\Gravity1Engine.cs" />
+    <Compile Include="MyCode\Engines\Gravity2Engine.cs" />
+    <Compile Include="MyCode\Engines\Gravity3Engine.cs" />
+    <Compile Include="MyCode\Engines\MyFirstModelEngine.cs" />
+    <Compile Include="MyCode\Engines\MyShaderEngine.cs" />
+    <Compile Include="MyCode\Engines\PointSprite1aEngine.cs" />
+    <Compile Include="MyCode\Engines\PointSprite1bEngine.cs" />
+    <Compile Include="MyCode\Engines\PointSprite1cEngine.cs" />
+    <Compile Include="MyCode\Engines\PointSprite2aEngine.cs" />
+    <Compile Include="MyCode\Engines\PolygonEngine\MyFactory.cs" />
+    <Compile Include="MyCode\Engines\PolygonEngine\MyPoint.cs" />
+    <Compile Include="MyCode\Engines\PolygonEngine\MyRectangle.cs" />
+    <Compile Include="MyCode\Engines\RenderTargetEngine.cs" />
+    <Compile Include="MyCode\Engines\CountEngine.cs" />
+    <Compile Include="MyCode\Engines\Star80Engine.cs" />
+    <Compile Include="MyCode\Various\Fireworks\BurningRocket.cs" />
+    <Compile Include="MyCode\Various\Fireworks\IFireEngine.cs" />
+    <Compile Include="MyCode\Various\Fireworks\IFirework.cs" />
+    <Compile Include="MyCode\Various\Fireworks\KarinRaketen.cs" />
+    <Compile Include="MyCode\Various\Fireworks\Particle.cs" />
+    <Compile Include="MyCode\Various\Fireworks\StandardRocket.cs" />
+    <Compile Include="MyCode\Various\Fireworks\StandardRocket2.cs" />
+    <Compile Include="MyCode\Various\Fireworks\StandardRocket3.cs" />
+    <Compile Include="MyCode\Views\MainWindow.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\checker.bmp" />
+    <Content Include="Content\Count\flower01.png" />
+    <Content Include="Content\Count\flowers.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Content\Count\particle_16.png" />
+    <Content Include="Content\Count\particle_32_1.png" />
+    <Content Include="Content\Count\particle_32_2.png" />
+    <Content Include="Content\Dust\Brush64.png" />
+    <Content Include="Content\Dust\DustShader.fx" />
+    <Content Include="Content\Dust\heart.png" />
+    <Content Include="Content\Dust\Penguins.jpg" />
+    <Content Include="Content\Dust\Red064.png" />
+    <Content Include="Content\Dust\sand.png" />
+    <Content Include="Content\Dust\sun.png" />
+    <Content Include="Content\Family\BillboardShader.fx" />
+    <Content Include="Content\Family\test1.png" />
+    <Content Include="Content\Family\test2.png" />
+    <Content Include="Content\Family\test3.png" />
+    <Content Include="Content\Fonts\Game\ship.png" />
+    <Content Include="Content\FractalPlane\cloudMap.jpg" />
+    <Content Include="Content\FractalPlane\grass.dds" />
+    <Content Include="Content\FractalPlane\grass.png" />
+    <Content Include="Content\FractalPlane\multitexture.fx" />
+    <Content Include="Content\FractalPlane\multitextureWithBlend.fx" />
+    <Content Include="Content\FractalPlane\multitextureWithBlendAndClip.fx" />
+    <Content Include="Content\FractalPlane\rock.dds" />
+    <Content Include="Content\FractalPlane\rock.png" />
+    <Content Include="Content\FractalPlane\sand.dds" />
+    <Content Include="Content\FractalPlane\sand.png" />
+    <Content Include="Content\FractalPlane\snow.dds" />
+    <Content Include="Content\FractalPlane\snow.png" />
+    <Content Include="Content\FractalPlane\waterbump.dds" />
+    <Content Include="Content\FractalPlane\waterbump.png" />
+    <Content Include="Content\Game\invader01.png" />
+    <Content Include="Content\Game\invader02.png" />
+    <Content Include="Content\Game\invader03.png" />
+    <Content Include="Content\Game\invader04.png" />
+    <Content Include="Content\Game\invader05.png" />
+    <Content Include="Content\Game\invader06.png" />
+    <Content Include="Content\Game\invader07.png" />
+    <Content Include="Content\Game\invader08.png" />
+    <Content Include="Content\Game\invader09.png" />
+    <Content Include="Content\Game\invader10.png" />
+    <Content Include="Content\Game\invader11.png" />
+    <Content Include="Content\Game\invader12.png" />
+    <Content Include="Content\Game\invader13.png" />
+    <Content Include="Content\Game\invader14.png" />
+    <Content Include="Content\Game\invader15.png" />
+    <Content Include="Content\Game\morgan.png" />
+    <Content Include="Content\Game\oskar_1.png" />
+    <Content Include="Content\Game\ship.png" />
+    <Content Include="Content\Game\ship_s.png" />
+    <Content Include="Content\Game\shot.png" />
+    <Content Include="Content\Gravity\BillboardShader.fx" />
+    <Content Include="Content\monogame.png" />
+    <Content Include="Content\MyFirstModel\checker.bmp" />
+    <Content Include="Content\Count\flowers.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Content\MyShader\Ambient.fx" />
+    <None Include="Content\MyShader\AsteroidTexture.png" />
+    <None Include="Content\MyShader\Blobfish.obj" />
+    <None Include="Content\MyShader\Box.fbx" />
+    <None Include="Content\MyShader\cottage_diffuse.png" />
+    <None Include="Content\MyShader\cottage_normal.png" />
+    <None Include="Content\MyShader\daisy.fbx" />
+    <None Include="Content\MyShader\DiffuseLightning.fx" />
+    <None Include="Content\MyShader\earth.fbx" />
+    <None Include="Content\MyShader\HelicopterTexture.png" />
+    <None Include="Content\MyShader\MeshesblobfishV41Tex.png" />
+    <None Include="Content\MyShader\metal.jpg" />
+    <None Include="Content\MyShader\Minion.fbx" />
+    <None Include="Content\MyShader\NormalMapShader.fx" />
+    <None Include="Content\MyShader\ShipTexture.png" />
+    <None Include="Content\MyShader\SpecularLightning.fx" />
+    <None Include="Content\MyShader\TextureShader.fx" />
+    <None Include="Content\MyShader\ToonShader.fx" />
+    <Content Include="Content\MyShader\textures\5.png" />
+    <Content Include="Content\MyShader\textures\7.png" />
+    <Content Include="Content\MyShader\textures\9.png" />
+    <Content Include="Content\MyShader\WoodPlanksBare0102_6_L.jpg" />
+    <Content Include="Content\MyShader\WoodPlanksBare0102_6_L_NRM.jpg" />
+    <Content Include="Content\PointLight.fx" />
+    <Content Include="Content\PointSprite1\BillboardShader.fx" />
+    <Content Include="Content\PointSprite1\point.png" />
+    <Content Include="Content\PointSprite1\pointWhite.png" />
+    <Content Include="Content\PointSprite2\BillboardShader.fx" />
+    <Content Include="Content\PointSprite2\p1.png" />
+    <Content Include="Content\PointSprite2\p10.png" />
+    <Content Include="Content\PointSprite2\p11.png" />
+    <Content Include="Content\PointSprite2\p12.png" />
+    <Content Include="Content\PointSprite2\p13.png" />
+    <Content Include="Content\PointSprite2\p2.png" />
+    <Content Include="Content\PointSprite2\p3.png" />
+    <Content Include="Content\PointSprite2\p4.png" />
+    <Content Include="Content\PointSprite2\p5.png" />
+    <Content Include="Content\PointSprite2\p6.png" />
+    <Content Include="Content\PointSprite2\p7.png" />
+    <Content Include="Content\PointSprite2\p8.png" />
+    <Content Include="Content\PointSprite2\p9.png" />
+    <Content Include="Content\RenderTarget\checker.bmp" />
+    <Content Include="Content\SkyBoxes\EmptySpace.dds" />
+    <Content Include="Content\SkyBoxes\Islands.dds" />
+    <Content Include="Content\SkyBoxes\SkyBox.dds" />
+    <Content Include="Content\SkyBoxes\SkyboxShader.fx" />
+    <Content Include="Content\SkyBoxes\SunInSpace.dds" />
+    <Content Include="Content\SkyBoxes\Sunset.dds" />
+    <Content Include="Content\Stars\star.png" />
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <Import Project="..\MonoGUI\MonoGUI.projitems" Label="Shared" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

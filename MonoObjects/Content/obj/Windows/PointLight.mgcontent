@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>Y:/Robert/Programmering/Visual Studio 2017/Monogame/MonoGUI/MonoObjects/Content/PointLight.fx</SourceFile>
+  <SourceTime>2019-06-15T20:39:06.0320193+02:00</SourceTime>
+  <DestFile>Y:/Robert/Programmering/Visual Studio 2017/Monogame/MonoGUI/MonoObjects/Content/bin/Windows/PointLight.xnb</DestFile>
+  <DestTime>2019-06-15T20:39:11.3813889+02:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2019-02-23T17:50:18+01:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2019-02-23T17:50:18+01:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

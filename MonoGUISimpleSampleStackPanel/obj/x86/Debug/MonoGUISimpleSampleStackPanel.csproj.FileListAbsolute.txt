@@ -1,0 +1,97 @@
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.csprojResolveAssemblyReference.cache
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\Content\Effects\SimpleAlpha.xnb
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\Content\Fonts\LabelFont.xnb
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGUISimpleSampleStackPanel.exe
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGUISimpleSampleStackPanel.pdb
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGame.Framework.dll
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.dll
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XInput.dll
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGame.Framework.xml
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.xml
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XInput.xml
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.exe
+Z:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.pdb
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\Content\Effects\SimpleAlpha.xnb
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\Content\Fonts\LabelFont.xnb
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGUISimpleSampleStackPanel.exe
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGUISimpleSampleStackPanel.pdb
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGame.Framework.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XInput.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGame.Framework.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XInput.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.csprojResolveAssemblyReference.cache
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.exe
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.pdb
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\Content\Fonts\LabelFont.xnb
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\Content\Effects\SimpleAlpha.xnb
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGUISimpleSampleStackPanel.exe
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGUISimpleSampleStackPanel.pdb
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.csproj.CopyComplete
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.exe
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.pdb
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\Content\Fonts\LabelFont.xnb
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\Content\Effects\SimpleAlpha.xnb
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGUISimpleSampleStackPanel.exe
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGUISimpleSampleStackPanel.pdb
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGame.Framework.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XInput.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\MonoGame.Framework.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\bin\Windows\x86\Debug\SharpDX.XInput.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.csprojAssemblyReference.cache
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.csproj.CoreCompileInputs.cache
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.csproj.CopyComplete
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.exe
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoGUISimpleSampleStackPanel\obj\x86\Debug\MonoGUISimpleSampleStackPanel.pdb

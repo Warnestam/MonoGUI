@@ -1,0 +1,97 @@
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoBasicLines.exe
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoBasicLines.pdb
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoGame.Framework.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XInput.dll
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoGame.Framework.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XInput.xml
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.csprojResolveAssemblyReference.cache
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.exe
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.pdb
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\Content\Effects\SimpleAlpha.xnb
+Y:\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\Content\Fonts\LabelFont.xnb
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\Content\Fonts\LabelFont.xnb
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\Content\Effects\SimpleAlpha.xnb
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoBasicLines.exe
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoBasicLines.pdb
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.dll
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.xml
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.csprojAssemblyReference.cache
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.csproj.CoreCompileInputs.cache
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.csproj.CopyComplete
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.exe
+F:\SYNC\Family\Robert\Programmering\Visual Studio 2017\Monogame\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.pdb
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\Content\Fonts\LabelFont.xnb
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\Content\Effects\SimpleAlpha.xnb
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoBasicLines.exe
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoBasicLines.pdb
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.csproj.CopyComplete
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.exe
+C:\Users\rober\Desktop\CONVERT\Monogame\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.pdb
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\Content\Fonts\LabelFont.xnb
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\Content\Effects\SimpleAlpha.xnb
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoBasicLines.exe
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoBasicLines.pdb
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoGame.Framework.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XInput.dll
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\MonoGame.Framework.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\bin\Windows\x86\Debug\SharpDX.XInput.xml
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.csprojAssemblyReference.cache
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.csproj.CoreCompileInputs.cache
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.csproj.CopyComplete
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.exe
+Z:\Robert\Programmering\Visual Studio 2019\MonoGUI\MonoBasicLines\obj\x86\Debug\MonoBasicLines.pdb
